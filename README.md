@@ -36,7 +36,7 @@ Clone the repository: git clone https://github.com/jiejiechai/Movie-Review-Page.
 
 Navigate to the project directory: cd Movie-Review-Page
 
-Set up the database: Import the provided SQL file (database.sql) into MySQL.
+Set up the database: Import the provided SQL file (reviews_db.sql) into MySQL.
 
 Deploy the application: Use a local server like XAMPP or WAMP.
 
